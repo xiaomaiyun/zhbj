@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp" >
+
+    <ImageView
+        android:id="@+id/iv_news_icon"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:background="#999999"
+        android:padding="1dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/news_pic_default" />
+
+    <TextView
+        android:id="@+id/tv_news_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="5dp"
+        android:layout_toRightOf="@+id/iv_news_icon"
+        android:ellipsize="end"
+        android:lines="2"
+        android:text="饭卡上剪短发了卡死的减肥路口见阿斯顿浪费就爱谁离开发顺丰卡死的卷发山东龙口锋娟啊的"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tv_news_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tv_news_title"
+        android:layout_below="@id/tv_news_title"
+        android:text="2015-01-09 16:32"
+        android:textColor="#999999"
+        android:textSize="15sp" />
+
+</RelativeLayout>

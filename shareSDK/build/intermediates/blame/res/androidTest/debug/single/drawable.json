@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\workspace_as\\zhbj\\shareSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ssdk_recomm_def_app_image.xml",
+        "source": "D:\\android\\workspace_as\\zhbj\\shareSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\ssdk_recomm_def_app_image.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace_as\\zhbj\\shareSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ssdk_recomm_friends_share_msg.xml",
+        "source": "D:\\android\\workspace_as\\zhbj\\shareSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\ssdk_recomm_friends_share_msg.xml"
+    }
+]

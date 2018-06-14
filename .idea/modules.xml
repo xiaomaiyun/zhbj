@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onekeyshare/onekeyshare.iml" filepath="$PROJECT_DIR$/onekeyshare/onekeyshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shareSDK/shareSDK.iml" filepath="$PROJECT_DIR$/shareSDK/shareSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu/slidingmenu.iml" filepath="$PROJECT_DIR$/slidingmenu/slidingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewPagerIndicator_library/viewPagerIndicator_library.iml" filepath="$PROJECT_DIR$/viewPagerIndicator_library/viewPagerIndicator_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutillibrary/xutillibrary.iml" filepath="$PROJECT_DIR$/xutillibrary/xutillibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhbj.iml" filepath="$PROJECT_DIR$/zhbj.iml" />
+    </modules>
+  </component>
+</project>

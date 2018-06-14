@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\workspace_as\\zhbj\\viewPagerIndicator_library\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "D:\\android\\workspace_as\\zhbj\\viewPagerIndicator_library\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace_as\\zhbj\\viewPagerIndicator_library\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "D:\\android\\workspace_as\\zhbj\\viewPagerIndicator_library\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace_as\\zhbj\\viewPagerIndicator_library\\build\\intermediates\\res\\merged\\release\\color\\vpi__tab_textcolor.xml",
+        "source": "D:\\android\\workspace_as\\zhbj\\viewPagerIndicator_library\\src\\main\\res\\color\\vpi__tab_textcolor.xml"
+    }
+]

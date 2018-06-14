@@ -1,0 +1,4 @@
+include ':app', ':onekeyshare', ':slidingmenu'
+include ':shareSDK'
+include ':xutillibrary'
+include ':viewPagerIndicator_library'
